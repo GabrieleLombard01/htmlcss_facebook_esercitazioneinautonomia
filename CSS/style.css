@@ -8,3 +8,18 @@
 body{
     background-color: #f0f2f5;
 }
+header{
+    display: inline-block;
+}
+/*Utilties*/
+.square{
+    height: 70%;
+    width: 50%px;
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+}
+.conteiner{
+    height: 70%;
+    width: 100%;
+    display: inline;
+}
