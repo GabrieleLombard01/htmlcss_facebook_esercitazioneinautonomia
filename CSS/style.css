@@ -8,18 +8,23 @@
 body{
     background-color: #f0f2f5;
 }
-header{
-    display: inline-block;
+p{
+    padding-left: 10px;
+    font-size: 35px;
 }
 /*Utilties*/
 .square{
-    height: 70%;
-    width: 50%px;
-    background-color: rgb(255, 0, 0);
-    display: inline-block;
+    max-width: 50%px;
+    border: solid black;
+    float: left;
 }
-.conteiner{
-    height: 70%;
-    width: 100%;
-    display: inline;
+.conteiner1{
+    width: 50%;
+    margin-left: 100px;
+}
+.input_size{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 398px;
 }
