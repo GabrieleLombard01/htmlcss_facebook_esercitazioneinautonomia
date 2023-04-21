@@ -28,8 +28,13 @@ p{
 .square2{
     background-color: white;
     border-radius: 8px;
-    border: solid black;
-
+    padding-bottom: 2px;
+    box-shadow: 0 -1px 0 0 rgb(240, 240, 240); 
+    box-shadow: 1px 0 0 0 rgb(240, 240, 240); 
+    box-shadow: 0 1px 0 0 rgb(240, 240, 240); 
+    box-shadow: -1px 0 0 0 rgb(240, 240, 240); 
+    box-shadow: 0 0 0 1px rgb(240, 240, 240);
+    box-shadow: -1px -1px rgb(236, 236, 236), -1em 0 0.4em rgb(237, 237, 237);
 }
 .conteiner1{
     max-width: 1000px;
